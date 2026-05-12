@@ -6,7 +6,7 @@ A component-based 2D game engine built in C++ using SDL2 and ImGui. Designed and
  
 ## Screenshot
  
-![Game Engine Screenshot](2DGameEngine.png)
+![Game Engine Screenshot](2DGameEngine.PNG)
  
 ---
  
