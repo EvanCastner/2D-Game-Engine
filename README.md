@@ -6,7 +6,7 @@ A component-based 2D game engine built in C++ using SDL2 and ImGui. Designed and
  
 ## Screenshot
  
-*Screenshot here*
+![Game Engine Screenshot](2DGameEngine.png)
  
 ---
  
@@ -77,8 +77,8 @@ AABB (Axis-Aligned Bounding Box) collision is used for platform detection and go
 - SDL2
 - C++17 compiler
 ```bash
-mkdir build
-cd build
+mkdir bin
+cd bin
 cmake ..
 make
 ./GameEngine
