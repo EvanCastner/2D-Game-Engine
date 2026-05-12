@@ -93,9 +93,8 @@ make
 3. **Configure** — use the Inspector to set shape, size, color, and behavior
 4. **Mark Solid** — check Solid on any entity you want to act as a platform
 5. **Mark Goal** — check Goal on the entity the player needs to reach
-6. **Add Player Movement** — check Player Movement on the entity the player will control
-7. **Play** — hit Play in the menu bar to run the game
-8. **Stop** — hit Stop to return to the editor
+6. **Play** — hit Play in the menu bar to run the game
+7. **Stop** — hit Stop to return to the editor
 ---
  
 ## Controls (Play Mode)
@@ -105,7 +104,6 @@ make
 | A | Move Left |
 | D | Move Right |
 | W / Space | Jump |
-| Escape | Quit |
  
 ---
 
